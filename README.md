@@ -1,4 +1,4 @@
-# my-joomla-site_centr_veteraniv 
+# my-joomla-site
 Архів сайту на Google Диску:https://drive.google.com/file/d/15fwnM-tIB5AB4XvO9veP5JruNAP8rnWB/view?usp=drive_link
 У зв'язку з обмеженням GitHub на розмір файлів при завантаженні через браузер (понад 25 МБ), проєкт розділено на дві частини:
 1. База даних проєкту: Файл veteran_db.sql завантажено безпосередньо сюди в репозиторій.
